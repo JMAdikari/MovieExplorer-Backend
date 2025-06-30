@@ -1,25 +1,61 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Container, Box, TextField, Button, Typography, Alert } from '@mui/material';
+import authApi from '../Api/authApi';
 
 const Login = () => {
-  const [username, setUsername] = useState('');
+  const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setError(null);
+    setLoading(true);
 
-    if (!username.trim() || !password.trim()) {
+    if (!email.trim() || !password.trim()) {
       setError('Please fill in both username and password.');
+      setLoading(false);
       return;
     }
 
-    // Simulate login (replace with actual authentication logic)
-    console.log('Login attempt:', { username, password });
-    navigate('/'); // Redirect to home after successful login
+    try {
+      const credentials = { email: email.trim(), password };
+      const response = await authApi.login(credentials);
+      
+      // Handle successful login
+      console.log('Login successful:', response);
+      
+      // Store token if provided
+      if (response.token) {
+        localStorage.setItem('authToken', response.token);
+      }
+      
+      // Store user info if provided
+      if (response.user) {
+        localStorage.setItem('user', JSON.stringify(response.user));
+      }
+      
+      navigate('/'); // Redirect to home after successful login
+    } catch (error) {
+      console.error('Login error:', error);
+      
+      // Handle different error types
+      if (typeof error === 'string') {
+        setError(error);
+      } else if (error.message) {
+        setError(error.message);
+      } else if (error.error) {
+        setError(error.error);
+      } else {
+        setError('Login failed. Please check your credentials and try again.');
+        navigate('/login'); // Redirect to login on error
+      }
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -55,15 +91,15 @@ const Login = () => {
           </Alert>
         )}
         <TextField
-          label="Username"
-          value={username}
-          onChange={(e) => setUsername(e.target.value)}
+          label="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
           fullWidth
           margin="normal"
           variant="outlined"
           required
           sx={{ bgcolor: 'white' }}
-          aria-label="Username input"
+          aria-label="Email input"
         />
         <TextField
           label="Password"

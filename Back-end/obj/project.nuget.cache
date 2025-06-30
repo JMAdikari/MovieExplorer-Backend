@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XDW6LldHcE8=",
+  "dgSpecHash": "Ei7zQqf5+qg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\Back-end.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\Back-end.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

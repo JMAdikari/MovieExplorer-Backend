@@ -1,31 +1,87 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Container, Box, TextField, Button, Typography, Alert } from '@mui/material';
+import authApi from '../Api/authApi'; 
 
+// Register component for user registration
+// This component allows users to register by providing their email, full name, password, and confirm
 const Register = () => {
-  const [username, setUsername] = useState('');
+  const [email, setEmail] = useState('');
+  const [fullName, setFullName] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [error, setError] = useState(null);
+  const [success, setSuccess] = useState(false); 
+  const [loading, setLoading] = useState(false); 
   const navigate = useNavigate();
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setError(null);
+    setSuccess(false);
+    setLoading(true);
 
-    if (!username.trim() || !password.trim() || !confirmPassword.trim()) {
+
+    if (!email.trim() || !password.trim() || !confirmPassword.trim()) {
       setError('Please fill in all fields.');
+      setLoading(false);
       return;
     }
 
     if (password !== confirmPassword) {
       setError('Passwords do not match.');
+      setLoading(false);
       return;
     }
 
-    // Simulate registration (replace with actual authentication logic)
-    console.log('Register attempt:', { username, password });
-    navigate('/login'); // Redirect to login after successful registration
+    if (password.length < 6) {
+      setError('Password must be at least 6 characters long.');
+      setLoading(false);
+      return;
+    }
+
+    try {
+      const userData = {
+        email: email.trim(),
+        fullName: fullName.trim(),
+        password,
+        confirmPassword
+      };
+
+      const response = await authApi.register(userData);
+
+      // Handle successful registration
+      console.log('Registration successful:', response);
+      setSuccess(true);
+
+      //Auto-login after registration
+      if (response.token) {
+        localStorage.setItem('authToken', response.token);
+        navigate('/');
+      } else {
+        setTimeout(() => navigate('/login'), 2000);
+      }
+
+      // Redirect to login after successful registration
+      setTimeout(() => navigate('/login'), 2000);
+    }catch (error) {
+      console.error('Registration error:', error);
+
+      // Handle different error types
+      if (typeof error === 'string') {
+        setError(error);
+      } else if (error.message) {
+        setError(error.message);
+      } else if (error.error) {
+        setError(error.error);
+      } else {
+        setError('Registration failed. Please try again.');
+        navigate('/register'); // Redirect to register on error
+      }
+    }finally {
+        setLoading(false);
+    }
+
   };
 
   return (
@@ -61,15 +117,26 @@ const Register = () => {
           </Alert>
         )}
         <TextField
-          label="Username"
-          value={username}
-          onChange={(e) => setUsername(e.target.value)}
+          label="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
           fullWidth
           margin="normal"
           variant="outlined"
           required
           sx={{ bgcolor: 'white' }}
-          aria-label="Username input"
+          aria-label="Email input"
+        />
+        <TextField
+          label="Full Name"
+          value={fullName}
+          onChange={(e) => setFullName(e.target.value)}
+          fullWidth
+          margin="normal"
+          variant="outlined"
+          required
+          sx={{ bgcolor: 'white' }}
+          aria-label="Full Name input"
         />
         <TextField
           label="Password"
@@ -106,7 +173,7 @@ const Register = () => {
         </Button>
         <Typography variant="body2" align="center">
           Already have an account?{' '}
-          <Link to="/login" style={{ color: '#1976d2', textDecoration: 'none' }}>
+          <Link to="/" style={{ color: '#1976d2', textDecoration: 'none' }}>
             Login
           </Link>
         </Typography>
