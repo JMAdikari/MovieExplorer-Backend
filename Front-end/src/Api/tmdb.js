@@ -1,3 +1,4 @@
+// configure axios for TMDB API requests
 import axios from 'axios';
 
 const API_KEY = process.env.REACT_APP_TMDB_API_KEY; // get API Key  from .env file for TMDB data fetch 
