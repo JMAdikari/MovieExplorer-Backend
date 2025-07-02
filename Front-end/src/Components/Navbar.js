@@ -51,6 +51,16 @@ const NavBar = () => {
         >
           Login
         </Button>
+        <Button
+          color="inherit"
+          component={Link}
+          to="/profile"
+          sx={{ mx: 1, fontSize: { xs: '0.8rem', sm: '1rem' } }}
+          aria-label="Profile"
+        >
+          Profile
+        </Button>
+        
         <IconButton
           color="inherit"
           onClick={toggleTheme}
