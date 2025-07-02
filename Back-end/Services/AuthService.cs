@@ -91,5 +91,10 @@ namespace AuthBackend.Services
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
+        public Task<bool> BlacklistTokenAsync(string token)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

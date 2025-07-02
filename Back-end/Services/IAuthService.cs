@@ -7,6 +7,7 @@ namespace AuthBackend.Services
         Task<string> RegisterAsync(RegisterModel model);
         Task<string> LoginAsync(LoginModel model);
         Task<User?> GetUserByEmailAsync(string email);
+        Task<bool> BlacklistTokenAsync(string token);
     }
 
     public class RegisterModel

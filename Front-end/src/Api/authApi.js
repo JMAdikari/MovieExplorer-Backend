@@ -30,7 +30,7 @@ const authApi = {
     },
     getCurrentUser: async () => {
         try {
-            const response = await axios.get('/auth/current-user');
+            const response = await axios.get('/auth/profile');
             return response.data;
         } catch (error) {
             console.error('Failed to fetch current user:', error);
