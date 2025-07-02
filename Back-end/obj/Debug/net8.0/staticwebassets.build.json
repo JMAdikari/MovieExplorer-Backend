@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/5XnAYCc1XdnHx1ksBJVVzh8j2g512csKJK8IqDASxc=",
+  "Hash": "1FoyxbpsV98+qpVS6nAV19s92wpqA3FwW587B5TogBg=",
   "Source": "Back-end",
   "BasePath": "_content/Back-end",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Back-end\\wwwroot",
       "Source": "Back-end",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
       "SourceId": "Back-end",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "Back-end#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "K/Z8orvxYE+7ybGAv9Sapz+hoqUflIrboB8V9CRMvcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
       "SourceId": "Back-end",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "Back-end#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "K/Z8orvxYE+7ybGAv9Sapz+hoqUflIrboB8V9CRMvcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\css\\site.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\favicon.ico",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\js\\site.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery.slim#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Back-end",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\",
       "BasePath": "_content/Back-end",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1385,7 +1385,7 @@
   "Endpoints": [
     {
       "Route": "Back-end.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1422,7 @@
     },
     {
       "Route": "Back-end.pjdplhax5g.bundle.scp.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Back-end.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1467,7 +1467,7 @@
     },
     {
       "Route": "Back-end.pjdplhax5g.styles.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1512,7 +1512,7 @@
     },
     {
       "Route": "Back-end.styles.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Back-end.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1549,7 +1549,7 @@
     },
     {
       "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +1594,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1631,7 +1631,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1676,7 +1676,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1713,7 +1713,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1750,7 +1750,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1795,7 +1795,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1832,7 +1832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1877,7 +1877,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1914,7 +1914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1951,7 +1951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1996,7 +1996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2033,7 +2033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.sejl45xvog.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2078,7 +2078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2115,7 +2115,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2160,7 +2160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2197,7 +2197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.22vffe00uq.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2242,7 +2242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2279,7 +2279,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2324,7 +2324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2361,7 +2361,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2406,7 +2406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2451,7 +2451,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2488,7 +2488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2533,7 +2533,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2570,7 +2570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2607,7 +2607,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2652,7 +2652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2689,7 +2689,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.tmc1g35s3z.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2734,7 +2734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2779,7 +2779,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2816,7 +2816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2861,7 +2861,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2898,7 +2898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2935,7 +2935,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2980,7 +2980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3017,7 +3017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.q9ht133ko3.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3062,7 +3062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3107,7 +3107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3181,7 +3181,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3226,7 +3226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3271,7 +3271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3308,7 +3308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3353,7 +3353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3390,7 +3390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.wl58j5mj3v.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3435,7 +3435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3472,7 +3472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3517,7 +3517,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3554,7 +3554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3599,7 +3599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3636,7 +3636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3673,7 +3673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3718,7 +3718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.keugtjm085.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3763,7 +3763,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3800,7 +3800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3837,7 +3837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3882,7 +3882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3927,7 +3927,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3964,7 +3964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4001,7 +4001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4046,7 +4046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4083,7 +4083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4128,7 +4128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4165,7 +4165,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.c63t5i9ira.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4210,7 +4210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4247,7 +4247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4292,7 +4292,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4329,7 +4329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4374,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4419,7 +4419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4501,7 +4501,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.6pdc2jztkx.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4546,7 +4546,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4583,7 +4583,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4628,7 +4628,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4665,7 +4665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.iovd86k7lj.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4747,7 +4747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4784,7 +4784,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.kbrnm935zg.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4829,7 +4829,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4866,7 +4866,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4911,7 +4911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4956,7 +4956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4993,7 +4993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5030,7 +5030,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.y7v9cxd14o.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5075,7 +5075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5112,7 +5112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.h1s4sie4z3.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5157,7 +5157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5194,7 +5194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5239,7 +5239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5276,7 +5276,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.0j3bgjxly4.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5321,7 +5321,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5358,7 +5358,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5403,7 +5403,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5440,7 +5440,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5485,7 +5485,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5530,7 +5530,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5567,7 +5567,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5612,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5649,7 +5649,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5694,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5731,7 +5731,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.83jwlth58m.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5776,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5813,7 +5813,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5850,7 +5850,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.mrlpezrjn3.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5895,7 +5895,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5932,7 +5932,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5977,7 +5977,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6014,7 +6014,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.worgj0nhwm.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6059,7 +6059,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6096,7 +6096,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6141,7 +6141,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.d6nrnj6jjx.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6186,7 +6186,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6223,7 +6223,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6260,7 +6260,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.m9qm4tazc0.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6305,7 +6305,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6342,7 +6342,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ttgo8qnofa.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6387,7 +6387,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.jjsuc0puko.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6432,7 +6432,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6469,7 +6469,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.87fc7y1x7t.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6514,7 +6514,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.9vr69e8ynj.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6559,7 +6559,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.js",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6596,7 +6596,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.map",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6633,7 +6633,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6678,7 +6678,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backendd\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\ASUS\\OneDrive\\Desktop\\MovieExplorer-Backend\\Back-end\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

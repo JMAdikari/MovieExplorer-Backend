@@ -125,10 +125,25 @@ namespace AuthBackend.Controllers
 
         [HttpPost("logout")]
         [Authorize]
-        public IActionResult Logout()
+        public async Task<IActionResult> Logout()
         {
-            // Since we're using JWT tokens, logout is handled client-side by removing the token
-            // You could implement token blacklisting here if needed
+            // Extract the JWT token from the Authorization header
+            var authHeader = Request.Headers["Authorization"].FirstOrDefault();
+            if (string.IsNullOrEmpty(authHeader) || !authHeader.StartsWith("Bearer "))
+            {
+            return BadRequest(new { message = "No token provided" });
+            }
+
+            var token = authHeader.Substring("Bearer ".Length).Trim();
+
+            // Blacklist the token using the auth service
+            var result = await _authService.BlacklistTokenAsync(token);
+
+            if (!result)
+            {
+            return StatusCode(500, new { message = "Failed to blacklist token" });
+            }
+
             return Ok(new { message = "Logout successful" });
         }
 
